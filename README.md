@@ -2,14 +2,16 @@
 
 Exploring the synergy of Machine Learning, Data Science, Deep Learning, and Design to build impactful solutions!
 <img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxvajZzZ2ppYjF2ajBvNm5oOTVtMjkwMmx2Y2ZzdGQ4eXB1bng4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<br>
 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI and Design
 - 🔍 Exploring the depths of Data Science and Data analytics
 - 💬 Ask me about Tech
-- 📧 How to reach me out :
+- 📧 How to reach me out : https://www.linkedin.com/in/raanesh-u-2a1923300/
 - 😄 Pronoun: Machine Learning Wizard,Tech Voyager 
 - 🗣️ Languages: English,French(Beginner),Tamil.
+- 
 <br />
 
 ### Programming Language I Know

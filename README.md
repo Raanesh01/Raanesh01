@@ -11,7 +11,6 @@ Exploring the synergy of Machine Learning, Data Science, Deep Learning, and Desi
 - 📧 How to reach me out : https://www.linkedin.com/in/raanesh-u-2a1923300/
 - 😄 Pronoun: Machine Learning Wizard,Tech Voyager 
 - 🗣️ Languages: English,French(Beginner),Tamil.
-- 
 <br />
 
 ### Programming Language I Know

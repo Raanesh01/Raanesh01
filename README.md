@@ -1,4 +1,4 @@
-## Hi there 👋 I’m Raanesh. It’s a pleasure to meet you
+## Hi there 👋 I’m Raanesh. It’s my pleasure to meet you all!
 
 Exploring the synergy of Machine Learning, Data Science, Deep Learning, and Design to build impactful solutions!
 <img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxvajZzZ2ppYjF2ajBvNm5oOTVtMjkwMmx2Y2ZzdGQ4eXB1bng4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">

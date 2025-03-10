@@ -13,8 +13,10 @@ Exploring the synergy of Machine Learning, Data Science, Deep Learning, and Desi
 - 🗣️ Languages: English,French(Beginner),Tamil.
 <br />
 
-### Programming Language I Know
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+### Programming Languages and Frameworks
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS Icon" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Icon" /> 
+
+
 
 ### AIML Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/numpy.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pandas.png" /> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /><img height="50" width="50" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/opencv.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pillow.png" /> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
